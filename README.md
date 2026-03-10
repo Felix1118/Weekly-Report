@@ -10,6 +10,8 @@
 - **复现并尝试使用LSTM建模时间序列方式改进OT-MCSTGCN模型**
 
   复现实验结果图（NC VS SMC&EMCI）
+  <img width="1742" height="603" alt="image" src="https://github.com/user-attachments/assets/6b1e533e-cd35-46bb-b773-c8c75c72d414" />
+
   
 
 ## 2）存在的问题
